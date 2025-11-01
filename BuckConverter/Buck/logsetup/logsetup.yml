@@ -1,0 +1,14 @@
+signals:
+  C1.C: 0.001
+  C1.I: 0.0
+  C1.V.initial: 0.0
+  Gate.V: 1
+  L1.I: 1
+  L1.I.initial: 0.0
+  L1.L: 0.001
+  R1.I: 0.0
+  R1.R: 1.0
+  Vdc1.I: 0.0
+  Vdc1.V: 1.0
+  Vin.V: 1
+  Vout.V: 1

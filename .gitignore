@@ -1,0 +1,52 @@
+# hil-demos
+
+# Ignore all tmp dirs
+tmp/
+
+# Ignore IDE project files
+*.project
+*.cproject
+*.ioc
+*.launch
+.settings/
+
+# Ignore build output directories
+Debug/
+Release/
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+~*.nib
+
+# Ignore Eclipse-specific files
+.metadata
+*.tmp
+*.bak
+*.swp
+.local.properties
+
+# Ignore other auto-generated files and folders
+*.d
+*.bin
+*.elf
+*.hex
+*.map
+
+# Ignore debugger and project settings
+*.launch.json
+*.settings/
+
+# Ignore Composer and other package manager files if used
+vendor/
+node_modules/
+
+# Ignore logs and other runtime files
+*.log
+
+# Ignore user-specific or system-specific files
+*.user
+*.ds_store

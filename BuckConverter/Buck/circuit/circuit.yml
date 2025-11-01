@@ -1,0 +1,332 @@
+is_main: false
+widgets:
+  - type_: Wire
+    x: 118
+    y: -55.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire29
+      length: 11.000000
+  - type_: Wire
+    x: 118
+    y: -66.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire26
+      length: 11.000000
+  - type_: Wire
+    x: -1
+    y: -32.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire23
+      length: 15.000000
+  - type_: Wire
+    x: -42
+    y: -72.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire7
+      length: 23.000000
+  - type_: Wire
+    x: 118
+    y: -22.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire6
+      length: 15.000000
+  - type_: Wire
+    x: 118
+    y: -78
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire25
+      length: 12.000000
+  - type_: Wire
+    x: 123
+    y: -84
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire21
+      length: 10.000000
+  - type_: Wire
+    x: 107
+    y: -15
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire17
+      length: 22.000000
+  - type_: Wire
+    x: 107
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire19
+      length: 22.000000
+  - type_: Wire
+    x: 83.5
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire8
+      length: 25.000000
+  - type_: Wire
+    x: 123
+    y: -72
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire22
+      length: 10.000000
+  - type_: Wire
+    x: 61.5
+    y: -41
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire2
+      length: 1.000000
+  - type_: Wire
+    x: 61
+    y: -46
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire1
+      length: 10.000000
+  - type_: Wire
+    x: 68.5
+    y: -15
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire5
+      length: 55.000000
+  - type_: Wire
+    x: -42
+    y: -55
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire9
+      length: 12.000000
+  - type_: Wire
+    x: 14.5
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire10
+      length: 11.000000
+  - type_: Wire
+    x: -3.5
+    y: -25
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire27
+      length: 5.000000
+  - type_: Wire
+    x: 96
+    y: -22.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire16
+      length: 15.000000
+  - type_: Wire
+    x: -42
+    y: -22
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire3
+      length: 14.000000
+  - type_: Wire
+    x: -26.5
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire12
+      length: 31.000000
+  - type_: Wire
+    x: -11
+    y: -15
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire4
+      length: 62.000000
+  - type_: Wire
+    x: -44
+    y: -84
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire24
+      length: 4.000000
+  - type_: Wire
+    x: 96
+    y: -55.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire18
+      length: 11.000000
+  - type_: VoltageDC
+    x: -42
+    y: -39
+    attributes:
+      orient: -0.000000+-1.000000j
+      orient: -0.000000+-1.000000j
+      Voltage: 1.0
+      show_value: true
+      ShowValue: false
+      Name: Vdc1
+  - type_: Resistor
+    x: 118
+    y: -40
+    attributes:
+      orient: 0.000000+1.000000j
+      orient: 0.000000+1.000000j
+      Resistance: 1.0
+      show_value: true
+      ShowValue: false
+      Name: R1
+  - type_: Mosfet
+    x: -1
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      show_value: true
+      orient: 1.000000+0.000000j
+      Name: Q1
+  - type_: Label
+    x: -8
+    y: -40
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Label3
+      orient: 1.000000+0.000000j
+      Net: Gate
+  - type_: Wire
+    x: 25.5
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire13
+      length: 11.000000
+  - type_: Label
+    x: -46
+    y: -84
+    attributes:
+      orient: 1.000000+-0.000000j
+      Name: Label2
+      orient: 1.000000+-0.000000j
+      Net: Vin
+  - type_: Wire
+    x: 30.5
+    y: -15
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire15
+      length: 21.000000
+  - type_: Label
+    x: 128
+    y: -72
+    attributes:
+      orient: -1.000000+0.000000j
+      Name: Label1
+      orient: -1.000000+0.000000j
+      Net: Vout
+  - type_: Inductor
+    x: 41
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      orient: 1.000000+0.000000j
+      Inductance: 0.001
+      show_value: true
+      ShowValue: false
+      Name: L1
+  - type_: Ground
+    x: 41
+    y: -10
+    attributes:
+      orient: 1.000000+0.000000j
+      show_value: true
+      Name: Ground1
+      orient: 1.000000+0.000000j
+  - type_: Wire
+    x: 20
+    y: -23.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire14
+      length: 17.000000
+  - type_: DigitalInput
+    x: -16
+    y: -25
+    attributes:
+      orient: 1.000000+0.000000j
+      show_value: true
+      Name: DIn1
+      orient: 1.000000+0.000000j
+      Port: 0
+  - type_: Wire
+    x: 20
+    y: -56.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire11
+      length: 9.000000
+  - type_: Diode
+    x: 20
+    y: -42
+    attributes:
+      orient: -0.000000+-1.000000j
+      show_value: true
+      orient: -0.000000+-1.000000j
+      Name: D1
+  - type_: Capacitor
+    x: 96
+    y: -40
+    attributes:
+      orient: 0.000000+1.000000j
+      orient: 0.000000+1.000000j
+      Capacitance: 0.001
+      show_value: true
+      ShowValue: false
+      Name: C1
+  - type_: Wire
+    x: -1
+    y: -45.5
+    attributes:
+      orient: 0.000000+1.000000j
+      Name: Wire20
+      length: 11.000000
+  - type_: Wire
+    x: -4.5
+    y: -40
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Wire28
+      length: 7.000000
+  - type_: CurrentMeasurement
+    x: 61
+    y: -61
+    attributes:
+      orient: 1.000000+0.000000j
+      show_value: true
+      orient: 1.000000+0.000000j
+      Name: AmpMeter1
+  - type_: AnalogOutput
+    x: 138
+    y: -84
+    attributes:
+      orient: -1.000000+0.000000j
+      show_value: true
+      Name: AOut2
+      orient: 1.000000+0.000000j
+      Offset: 0.0
+      Gain: 0.16
+      Port: 1
+  - type_: AnalogOutput
+    x: 72
+    y: -41
+    attributes:
+      orient: -1.000000+0.000000j
+      show_value: true
+      Name: AOut1
+      orient: 1.000000+0.000000j
+      Offset: 0.0
+      Gain: 0.16
+      Port: 0

@@ -1,0 +1,50 @@
+widgets:
+  - type_: Plot
+    x: 154
+    y: 33
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Plot4
+      orient: 1.000000+0.000000j
+      TimeSpan: 1.0
+      Min/Max: 0.0/10.0
+      Signal: Vin.V
+  - type_: Plot
+    x: 85
+    y: 21
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Plot3
+      orient: 1.000000+0.000000j
+      TimeSpan: 1.0
+      Min/Max: 0.0/10.0
+      Signal: L1.I
+  - type_: Plot
+    x: 39
+    y: 63
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Plot2
+      orient: 1.000000+0.000000j
+      TimeSpan: 1.0
+      Min/Max: 0.0/10.0
+      Signal: Vout.V
+  - type_: Plot
+    x: 38
+    y: 21
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: Plot1
+      orient: 1.000000+0.000000j
+      TimeSpan: 1.0
+      Min/Max: 0.0/5.0
+      Signal: Vin.V
+  - type_: AnalogActuator
+    x: 94
+    y: 66
+    attributes:
+      orient: 1.000000+0.000000j
+      Name: AnalogActuator1
+      orient: 1.000000+0.000000j
+      Min/Max: 0.0/10.0
+      Signal: Vdc1.V
